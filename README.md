@@ -3,6 +3,10 @@
 
 BLUP!
 
+BLUP! Main
+
+BLUP! nombre-rama
+
 This software toolkit contains components for exploring parametric design of any SOFA scene.
 We provide a unified framework for implementing a single parametric Sofa scene and use it both for multi-objective design optimization and model-based control. 
 
